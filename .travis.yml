@@ -9,4 +9,4 @@ deploy:
   api_key:
     secure: $heroku_key
   app:
-    master: livability-qld
+    master: liveability-qld
